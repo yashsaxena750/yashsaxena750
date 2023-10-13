@@ -5,6 +5,8 @@
 }
 
 .column {
+  height: 200;
+  widthL: 200;
   float: left;
   width: 33.33%;
   padding: 5px;
@@ -12,6 +14,8 @@
 
 /* Clearfix (clear floats) */
 .row::after {
+  height: 200;
+  widthL: 200;
   content: "";
   clear: both;
   display: table;
