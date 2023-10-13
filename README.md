@@ -1,9 +1,9 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
 <style>
-.column{ 
-            float: left; 
-            width: 30%; 
-            height: 30%; 
+            .column{ 
+                        float: left; 
+                        width: 30%; 
+                        height: 30%; 
         } 
 </style>
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
