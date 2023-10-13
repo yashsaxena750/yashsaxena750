@@ -1,9 +1,37 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
-
-<img align="center" alt="emoji" width="300" height="300" src="https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif">
-<img align="center" margin-top="-100" alt="emoji" width="300" height="300" src="https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" alt="Mountains" style="width:100%">
+  </div>
+</div>
+<!-- <img align="center" alt="emoji" width="300" height="300" src="">
+<img align="center" margin-top="-100" alt="emoji" width="300" height="300" src=""> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsaxena750" alt="yashsaxena750" /></a> </p>
