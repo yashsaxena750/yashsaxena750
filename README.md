@@ -4,7 +4,7 @@
 <h3 align="center">Pet Parent of two fur babies, puggy buuggy</h3>
 <p float="left">
   <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38352f37652f63612f38353765636137343435303161313934623431636432646164373637613339312e706e67.png" width="40%" />
-  <img src="https://us.123rf.com/450wm/zzn/zzn2304/zzn230401576/203567794-cute-cartoon-beagle-puppy-vector-illustration-for-your-design.jpg?ver=6" width="40%" />
+  <img src="https://cdn.dribbble.com/users/3421136/screenshots/10196243/media/adbef8189d48694fbe3fc8907432d0dd.jpg" width="40%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
