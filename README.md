@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 <h3 align="center">Pet Parent of two fur babies, puggy buuggy</h3>
 <p float="left">
-  <img src="https://i.pinimg.com/originals/85/7e/ca/857eca744501a194b41cd2dad767a391.png" width="30%" />
-  <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif" width="30%" />
+  <img src="https://i.pinimg.com/originals/85/7e/ca/857eca744501a194b41cd2dad767a391.png" width="50%" />
+  <img src="https://cdn2.vectorstock.com/i/1000x1000/88/86/adorable-kawaii-beagle-puppy-dog-vector-47518886.jpg" width="50%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
