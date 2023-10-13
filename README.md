@@ -1,6 +1,12 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
+
+<style>
+div{
+        float: left
+}
+</style>
 <div class="column"> 
         <img src= 
 "https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" 
