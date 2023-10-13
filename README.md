@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 <h3 align="center">Pet Parent of two fur babies, puggy buuggy</h3>
 <p float="left">
-  <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/image_processing20221210-15230-pi4lva.gif" width="30%" />
+  <img src="https://i.pinimg.com/originals/85/7e/ca/857eca744501a194b41cd2dad767a391.png" width="30%" />
   <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif" width="30%" />
 </p>
 
