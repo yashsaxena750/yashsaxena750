@@ -1,7 +1,7 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
-
+<h3 align="center">Pet Parent of two fur babies, puggy buuggy</h3>
 <p float="left">
   <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/image_processing20221210-15230-pi4lva.gif" width="30%" />
   <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif" width="30%" />
