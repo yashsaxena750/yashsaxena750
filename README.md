@@ -1,22 +1,15 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
-<style>
-            .column{ 
-                        float: left; 
-                        width: 30%; 
-                        height: 30%; 
-        } 
-</style>
 <div class="column"> 
         <img src= 
 "https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" 
-            style="width: 80%;"> 
+            style="width: 30%;"> 
     </div> 
     <div class="column"> 
         <img src= 
 "https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" 
-            style="width: 80%;"> 
+            style="width: 30%;"> 
     </div> 
 <!-- <img align="center" alt="emoji" width="300" height="300" src="">
 <img align="center" margin-top="-100" alt="emoji" width="300" height="300" src=""> -->
