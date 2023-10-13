@@ -8,10 +8,10 @@
 </style>
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
-<div class="column"
+<div class="column">
 <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" alt="Snow" style="width:80%;">
 </div>
-<div class="column"
+<div class="column">
 <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" alt="Mountains" style="width:80%;">
 </div>
 <!-- <img align="center" alt="emoji" width="300" height="300" src="">
