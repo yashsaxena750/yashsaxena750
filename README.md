@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 
-<img align="center" alt="emoji" width="300" height="300" src="https://dribbble.com/shots/20101496-Office-Pug">
+<img align="center" alt="emoji" width="300" height="300" src="https://dribbble.com/shots/20101496-Office-Pug/attachments/15180066?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
 
