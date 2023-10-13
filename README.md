@@ -8,6 +8,11 @@
   <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif" style="width: 30%;">
 </div>
 
+| Image 1                                          | Image 2                                          |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![Image 1](https://github.com/yashsaxena750/yashsaxena750/raw/main/image_processing20221210-15230-pi4lva.gif) | ![Image 2](https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif) |
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
