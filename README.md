@@ -4,7 +4,7 @@
 <h3 align="center">Pet Parent of two fur babies, puggy buuggy</h3>
 <p float="left">
   <img src="https://i.pinimg.com/originals/85/7e/ca/857eca744501a194b41cd2dad767a391.png" width="40%" />
-  <img src="https://www.detourshirts.com/cdn/shop/products/mockup-8c63a25c_1000x.jpg?v=1581905643" width="40%" height="20%" />
+  <img src="https://www.detourshirts.com/cdn/shop/products/mockup-8c63a25c_1000x.jpg?v=1581905643" width="40%" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
