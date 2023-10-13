@@ -2,15 +2,10 @@
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 
-
-| ![Image 1](https://github.com/yashsaxena750/yashsaxena750/raw/main/image_processing20221210-15230-pi4lva.gif) | ![Image 2](https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif) |
-
-
-
-
-
-
-
+<p float="left">
+  <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/image_processing20221210-15230-pi4lva.gif" width="30%" />
+  <img src="https://github.com/yashsaxena750/yashsaxena750/raw/main/61fca834899fc62f22202ddf3dd15593.gif" width="30%" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsaxena750&label=Profile%20views&color=0e75b6&style=flat" alt="yashsaxena750" /> </p>
 
