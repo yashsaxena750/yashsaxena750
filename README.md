@@ -3,7 +3,6 @@
 .div{
 
 float: left;
-width: 300px;
 
 }
 
