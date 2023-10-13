@@ -2,17 +2,12 @@
 <h1 align="center">Hi 👋, I'm Yash Saxena</h1>
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 
-<style>
-div{
-        float: left
-}
-</style>
-<div class="column"> 
+<div class="column" style="float:left"> 
         <img src= 
 "https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" 
             style="width: 30%;"> 
     </div> 
-    <div class="column"> 
+    <div class="column" style="float:left"> 
         <img src= 
 "https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" 
             style="width: 30%;"> 
