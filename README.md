@@ -5,8 +5,6 @@
 }
 
 .column {
-  height: 200;
-  widthL: 200;
   float: left;
   width: 33.33%;
   padding: 5px;
@@ -14,8 +12,6 @@
 
 /* Clearfix (clear floats) */
 .row::after {
-  height: 200;
-  widthL: 200;
   content: "";
   clear: both;
   display: table;
@@ -25,10 +21,10 @@
 <h3 align="center">A passionate Appsec Engineer|Developer|Data Analayt|CAD Engineer from India</h3>
 <div class="row">
   <div class="column">
-    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" alt="Snow" style="width:100%">
+    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/image_processing20221210-15230-pi4lva.gif" alt="Snow" style="width:100">
   </div>
   <div class="column">
-    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" alt="Mountains" style="width:100%">
+    <img src="https://github.com/yashsaxena750/yashsaxena750/blob/main/61fca834899fc62f22202ddf3dd15593.gif" alt="Mountains" style="width:100">
   </div>
 </div>
 <!-- <img align="center" alt="emoji" width="300" height="300" src="">
