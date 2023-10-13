@@ -1,8 +1,5 @@
 ![logo](https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2023/09/28145129/what_is_computer_coding.jpg)
 <style>
-* {
-  box-sizing: border-box;
-}
 
 .column {
   float: left;
