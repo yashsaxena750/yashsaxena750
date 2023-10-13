@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsaxena750" alt="yashsaxena750" /></a> </p>
 
-- 🔭 I’m currently working on [learning full stack](https://github.com/yashsaxena750/learning-full-stack)
+<p align="left"> <a href="https://twitter.com/golith3r00t" target="blank"><img src="https://img.shields.io/twitter/follow/golith3r00t?logo=twitter&style=for-the-badge" alt="golith3r00t" /></a> </p>
+
+- 🔭 I’m currently working on [full stack development](https://github.com/yashsaxena750/learning-full-stack)
 
 - 🌱 I’m currently learning **CSS,HTML,JS,OWASPTOP10,MERN,Java**
 
-- 👯 I’m looking to collaborate on **looking for some fun**
+- 👯 Collab with me **for some fun**
 
-- 🤝 I’m looking for help with **you can raise any PR if you found something odd or broken.**
+- 🤝 Let's play valorant sometime together **golith3r00t#r00t**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsaxena75](https://github.com/yashsaxena75)
 
@@ -25,6 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/golith3r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="golith3r00t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-saxena-412349161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-saxena-412349161" height="30" width="40" /></a>
+<a href="https://instagram.com/s45ay2h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s45ay2h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
