@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/golith3r00t" target="blank"><img src="https://img.shields.io/twitter/follow/golith3r00t?logo=twitter&style=for-the-badge" alt="golith3r00t" /></a> </p>
 
-- 🔭 I’m currently working on [full stack development](https://github.com/yashsaxena750/learning-full-stack)
+- 🔭 I’m currently working on up-skilling myself
 
-- 🌱 I’m currently learning **CSS,HTML,JS,OWASPTOP10,MERN,Java**
+- 🌱 I’m currently learning **multiple skills**
 
 - 👯 Collab with me **for some fun**
 
-- 🤝 Let's play valorant sometime together **golith3r00t#r00t**
+- 🤝 Let's play valorant/Horza Forizon 5 sometime together **mastergullu#r00t**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashsaxena75](https://github.com/yashsaxena75)
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **yashsaxena986@gmail.com**
 
-- 📄 Know about my experiences [https://yashsaxena750.github.io/](https://yashsaxena750.github.io/)
+- 📄 Know about my experiences(WIP) [https://yashsaxena750.github.io/](https://yashsaxena750.github.io/)
 
 - ⚡ Fun fact **I think I am sleepy all the time.**
 
